@@ -1,0 +1,66 @@
+body {
+    background:  #8ec3ff !important;
+}
+
+.nav {
+    border-radius: 0px !important;
+    padding: 10px 0 10px 0 !important;
+    background-color: #0300a0 !important; 
+}
+.temp {
+    background-color: #0300a0 !important; 
+    color: antiquewhite;
+    border: none !important;
+}
+.pform {
+    background-color: #0300a0 !important; 
+}
+.name {
+    color: antiquewhite;
+}
+#id_login ,#id_password {
+    border-radius: 20px;
+    box-shadow: 2px black;
+}
+.dropdownbg {
+    background-color: #06acff;
+    color: antiquewhite;
+}
+
+.mb-7 {
+    margin-bottom: 7px !important;
+}
+
+.mt-5 {
+    margin-top: 5px !important;
+}
+
+.mymodal {
+    height: 300px !important;
+    top: 200px !important;
+    font-size: 20px !important;
+}
+
+.mb-5 {
+    margin-bottom: 5px !important;
+}
+
+.w-big {
+    width: 200px !important;
+}
+
+.bwhite-lg {
+    background-color: transparent !important;
+    color: antiquewhite;
+}
+
+.bwhite-sm {
+    background-color: transparent !important;
+    width: 10px !important;
+    color: antiquewhite;
+}
+
+.comment-box {
+    display: none;
+}
+
